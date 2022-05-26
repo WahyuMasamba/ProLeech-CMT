@@ -1,6 +1,6 @@
 # This is a workflow to deploy a leech bot to heroku using GitHub Actions
 
-name: Deploy To Heroku
+name: CMT Deploy To Heroku
 
 on: workflow_dispatch
 
