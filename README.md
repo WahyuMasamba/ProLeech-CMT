@@ -1,12 +1,11 @@
-![MAXX LEECH V2](https://telegra.ph/file/af8f0596124714a17e4e2.png)
+![CMT Klub Leech V2](https://telegra.ph/file/797e2fd172b1b65bad264.jpg)
 
-## 👉 [Orginal Repository](https://github.com/gautamajay52/TorrentLeech-Gdrive)
+## 👉 [Orginal Repository](https://github.com/WahyuMasamba/ProLeech-CMT)
 
-![Maxx](https://telegra.ph/file/d18fa7fa33f26f733adb9.png)
 
 ## **Don't Kill Heroku please ☹️**
 
-[![MAXX LEECH](https://telegra.ph/file/29d788a656dd517eafd0a.png)](https://telegram.dog/MaxxBots)
+[![CMT Klub Leech](https://telegra.ph/file/29d788a656dd517eafd0a.png)](https://t.me/RequestMovie84)
 
 
 
@@ -29,7 +28,7 @@
     ✓ Changing rclone destination config on fly (By using `/rlcone` in private mode)
     ✓
 
-[![Maxx](https://telegra.ph/file/f3f3b950c2904756bb201.png)](https://t.me/MaxxRiderz) 👇
+[![CMT](https://telegra.ph/file/f3f3b950c2904756bb201.png)](https://t.me/RequestMovie84) 👇
 
 ##### Mandatory Variables
 
@@ -44,7 +43,7 @@
 * `OWNER_ID`: ID of the bot owner, He/she can be abled to access bot in bot only mode too(private mode).
 
 
-[![Maxx](https://telegra.ph/file/7e3a50f29f871defe0bcb.png)](https://t.me/MaxxBots)
+[![CMT](https://telegra.ph/file/7e3a50f29f871defe0bcb.png)](https://t.me/RequestMovie84)
 
 ##### Optional Configuration Variables
 
@@ -150,11 +149,11 @@
 ➢ `/status`
 
 
-[![Maxx](https://telegra.ph/file/3066ec5102c94b8135e09.png)](https://t.me/MaxxBotChat)
+[![CMT](https://telegra.ph/file/3066ec5102c94b8135e09.png)](https://t.me/RequestMovie84)
 
 🔴 <b> Currently Support HEORKO . But not permanent ☹️🤧 Coz Heroku won't allow Torrent Things</b>.
 
-## ARE YOU NEW ??? Then READ Full 👉 [Instructions](https://GitHub.com/MaxxRider/About-Leech)
+## ARE YOU NEW ??? Then READ Full 👉 [Instructions](https://github.com/WahyuMasamba/About-Leech)
 
 
 🤧 <b> Before Deploy 𝗣𝗹𝗲𝗮𝘀𝗲 𝗛𝗶𝘁 𝗦𝘁𝗮𝗿 ★ else you are Gay</b>
@@ -163,7 +162,7 @@
 <p><a href="https://github.com/MaxxRider/Leech-Pro/wiki/Deploy-To-Heroku"> <img src=https://img.shields.io/badge/Deploy%20Guide-blueviolet?style=for-the-badge&logo=heroku" width="200"</a></p>
 
 
-[![MaxxRider](https://telegra.ph/file/aac59f2f35ee73b63019e.png)](https://telegram.dog/MaxxRiderz)
+[![CMT Klub](https://telegra.ph/file/aac59f2f35ee73b63019e.png)](https://t.me/RequestMovie84)
 
     
 ## CREDITS
