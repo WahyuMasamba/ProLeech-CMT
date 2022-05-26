@@ -82,7 +82,7 @@ class Progress:
                 ''.join([UN_FINISHED_PROGRESS_STR for i in range(20 - math.floor(percentage / 5))]),
                 round(percentage, 2))
             #cpu = "{psutil.cpu_percent()}%"
-            tmp = progress + "\n**• Total 📀:**`〘{1}〙`\n**• Done ✓ :**` 〘{0}〙`\n**• Speed 🚀 :** `〘{2}〙`\n**• ETA ⏳ :**` 〘{3}〙`".format(
+            tmp = progress + "\n**• Total 🗃:**`〘{1}〙`\n**• Done ✓ :**` 〘{0}〙`\n**• Speed 🗼 :** `〘{2}〙`\n**• ETA 🚥 :**` 〘{3}〙`".format(
                 humanbytes(current),
                 humanbytes(total),
                 humanbytes(speed),
