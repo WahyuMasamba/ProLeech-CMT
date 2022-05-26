@@ -93,8 +93,8 @@ async def upload_to_tg(
             d_f_s = humanbytes(os.path.getsize(local_file_name))
             i_m_s_g = await message.reply_text(
                 "Telegram does not support uploading this file.\n"
-                f"Detected File Size: {d_f_s} 😡\n"
-                "\n🤖 trying to split the files 🌝🌝🌚"
+                f"Detected File Size: {d_f_s} 🦠\n"
+                "\n🤖 trying to split the files"
             )
             splitted_dir = await split_large_files(local_file_name)
             totlaa_sleif = os.listdir(splitted_dir)
@@ -103,7 +103,7 @@ async def upload_to_tg(
             LOGGER.info(totlaa_sleif)
             ba_se_file_name = os.path.basename(local_file_name)
             await i_m_s_g.edit_text(
-                f"Detected File Size: {d_f_s} 😡\n"
+                f"Detected File Size: {d_f_s} 🦠\n"
                 f"<code>{ba_se_file_name}</code> splitted into {number_of_files} files.\n"
                 "Trying to upload to Telegram, now ..."
             )
@@ -145,7 +145,7 @@ async def upload_to_tg(
 async def upload_to_gdrive(file_upload, message, messa_ge, g_id):
     await asyncio.sleep(EDIT_SLEEP_TIME_OUT)
     del_it = await message.edit_text(
-        f"<a href='tg://user?id={g_id}'>🔊</a> Now Uploading to ☁️ Cloud!!!"
+        f"<a href='tg://user?id={g_id}'>🔊</a> Now Uploading CMT to ☁️ Cloud!!!"
     )
     if not os.path.exists("rclone.conf"):
         with open("rclone.conf", "w+", newline="\n", encoding="utf-8") as fole:
@@ -286,7 +286,7 @@ async def upload_to_gdrive(file_upload, message, messa_ge, g_id):
         button_markup = pyrogram.InlineKeyboardMarkup(button)
         await asyncio.sleep(EDIT_SLEEP_TIME_OUT)
         await messa_ge.reply_text(
-            f"🤖: Uploaded successfully `{os.path.basename(file_upload)}` <a href='tg://user?id={g_id}'>🤒</a>\n📀 Size: {gjay}",
+            f"🤖: Uploaded CMT successfully `{os.path.basename(file_upload)}` <a href='tg://user?id={g_id}'>🧬</a>\n📀 Size: {gjay}",
             reply_markup=button_markup,
         )
         shutil.rmtree(file_upload)
@@ -326,7 +326,7 @@ async def upload_single_file(
         message_for_progress_display = message
         if not edit_media:
             message_for_progress_display = await message.reply_text(
-                "**Status :** `Starting Uploading 📤`\n\n**• FileName :** `{}`".format(os.path.basename(local_file_name))
+                "**Status :** `Starting Uploading CMT 📤`\n\n**• FileName :** `{}`".format(os.path.basename(local_file_name))
             )
             prog = Progress(from_user, client, message_for_progress_display)
         sent_message = await message.reply_document(
@@ -356,7 +356,7 @@ async def upload_single_file(
             message_for_progress_display = message
             if not edit_media:
                 message_for_progress_display = await message.reply_text(
-                    "**Status :** `Starting Uploading 📤`\n\n**• FileName :** `{}`".format(os.path.basename(local_file_name))
+                    "**Status :** `Starting Uploading CMT 📤`\n\n**• FileName :** `{}`".format(os.path.basename(local_file_name))
                 )
                 prog = Progress(from_user, client, message_for_progress_display)
             if local_file_name.upper().endswith(("MKV", "MP4", "WEBM", "FLV", "3GP", "AVI", "MOV", "OGG", "WMV", "M4V", "TS", "MPG", "MTS", "M2TS")):
