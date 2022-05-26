@@ -158,10 +158,6 @@
 
 🤧 <b> Before Deploy 𝗣𝗹𝗲𝗮𝘀𝗲 𝗛𝗶𝘁 𝗦𝘁𝗮𝗿 ★ else you are Gay</b>
 
-
-<p><a href="https://github.com/MaxxRider/Leech-Pro/wiki/Deploy-To-Heroku"> 
-
-
 [![CMT Klub](https://telegra.ph/file/aac59f2f35ee73b63019e.png)](https://t.me/RequestMovie84)
 
     
