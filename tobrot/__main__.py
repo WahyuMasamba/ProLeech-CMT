@@ -238,7 +238,7 @@ if __name__ == "__main__":
     app.add_handler(upload_as_video_handler)
     ##############################################################################
     
-    logging.info(f"@{(app.get_me()).username} Has Started Running...🏃💨💨 Now gimme 100$ 🐸")
+    logging.info(f"@{(app.get_me()).username} Has Started Running CMT...💊 Now gimme 100$ 🐸")
     
     idle()
     
