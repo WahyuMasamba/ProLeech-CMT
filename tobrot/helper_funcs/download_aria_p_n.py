@@ -117,7 +117,7 @@ def add_torrent(aria_instance, torrent_file_path):
                 False,
                 "**FAILED** \n"
                 + str(e)
-                + " \n<b> Your Link is Slow Dude 🐈</b>",
+                + " \n<b> Linkmu sangat lambat kawan 💣</b>",
             )
         else:
             return True, "" + download.gid + ""
