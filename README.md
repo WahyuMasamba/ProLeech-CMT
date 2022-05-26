@@ -158,7 +158,7 @@
 
 🤧 <b> Before Deploy 𝗣𝗹𝗲𝗮𝘀𝗲 𝗛𝗶𝘁 𝗦𝘁𝗮𝗿 ★ else you are Gay</b>
 
-[![CMT Klub](https://telegra.ph/file/aac59f2f35ee73b63019e.png)](https://t.me/RequestMovie84)
+[![CMT Klub](https://telegra.ph/file/797e2fd172b1b65bad264.jpg)](https://t.me/RequestMovie84)
 
     
 ## CREDITS
